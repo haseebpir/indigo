@@ -1,0 +1,6 @@
+/* Global styles for the skin, loaded only in the preview. */
+
+/* Indigo type: Inter for labels and UI text; JetBrains Mono for the
+   timecodes — the monospace readout is part of the Linear signature. Both
+   fall back to system stacks so the layout holds if the webfonts fail. */
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=JetBrains+Mono:wght@500;600&display=swap");
